@@ -1,0 +1,6 @@
+D:\Informatyka\Magisterskie\I semestr\Zaawansowane Programowanie Obiektowe\1 ćwiczenia\01.1\01.1\bin\Debug\01.1.exe.config
+D:\Informatyka\Magisterskie\I semestr\Zaawansowane Programowanie Obiektowe\1 ćwiczenia\01.1\01.1\bin\Debug\01.1.exe
+D:\Informatyka\Magisterskie\I semestr\Zaawansowane Programowanie Obiektowe\1 ćwiczenia\01.1\01.1\bin\Debug\01.1.pdb
+D:\Informatyka\Magisterskie\I semestr\Zaawansowane Programowanie Obiektowe\1 ćwiczenia\01.1\01.1\obj\Debug\01.1.csprojResolveAssemblyReference.cache
+D:\Informatyka\Magisterskie\I semestr\Zaawansowane Programowanie Obiektowe\1 ćwiczenia\01.1\01.1\obj\Debug\01.1.exe
+D:\Informatyka\Magisterskie\I semestr\Zaawansowane Programowanie Obiektowe\1 ćwiczenia\01.1\01.1\obj\Debug\01.1.pdb

@@ -8,34 +8,34 @@ namespace _01._2
 {
     class Konto
     {
-        private string Imie { get; set; }
-        private string Nazwisko { get; set; }
-        private int NumerKonta { get; set; }
-        private int Fundusze { get; set; }
-        private int WewId { get; set; }
-        private bool DoUsuniecia { get; set; }
+        private string _imie { get; set; }
+        private string _nazwisko { get; set; }
+        private int _numerKonta { get; set; }
+        private int _fundusze { get; set; }
+        private int _wewId { get; set; }
+        private bool _doUsuniecia { get; set; }
 
 
         public Konto(string imie,string nazwisko,int numerKonta,int fundusze, int wewId, bool doUsuniecia=false)
         {
-            Imie = imie;
-            Nazwisko = nazwisko;
-            NumerKonta = numerKonta;
-            Fundusze = fundusze;
-            WewId = wewId;
-            DoUsuniecia = doUsuniecia;
+            _imie = imie;
+            _nazwisko = nazwisko;
+            _numerKonta = numerKonta;
+            _fundusze = fundusze;
+            _wewId = wewId;
+            _doUsuniecia = doUsuniecia;
 
 
         }
 
         public void WpłaćPieniądze(int ilosc)
         {
-            Fundusze += ilosc;
+            _fundusze += ilosc;
         }
 
         public void WypłaćPieniądze(int ilosc)
         {
-            Fundusze -= ilosc;
+            _fundusze -= ilosc;
         }
 
         public void UsuńKonto(List<Konto> lista, int id)
@@ -51,12 +51,12 @@ namespace _01._2
 
         public void ZmieńFunduszeKonta(int procent)
         {
-            Fundusze += Fundusze*procent/100;
+            _fundusze += _fundusze*procent/100;
         }
 
         public override string ToString()
         {
-            return  "Użytkownik konta " + Imie.ToString() +" " + Nazwisko.ToString() + " ma " + Fundusze.ToString() +" zł na koncie";
+            return  "Użytkownik konta " + _imie.ToString() +" " + _nazwisko.ToString() + " ma " + _fundusze.ToString() +" zł na koncie";
         }
 
     }

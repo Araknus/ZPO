@@ -1,0 +1,6 @@
+G:\Zaawansowane Programowanie Obiektowe\2 ćwiczenia\02.1\02.1\bin\Debug\02.1.exe.config
+G:\Zaawansowane Programowanie Obiektowe\2 ćwiczenia\02.1\02.1\obj\Debug\02.1.csprojResolveAssemblyReference.cache
+G:\Zaawansowane Programowanie Obiektowe\2 ćwiczenia\02.1\02.1\bin\Debug\02.1.exe
+G:\Zaawansowane Programowanie Obiektowe\2 ćwiczenia\02.1\02.1\bin\Debug\02.1.pdb
+G:\Zaawansowane Programowanie Obiektowe\2 ćwiczenia\02.1\02.1\obj\Debug\02.1.exe
+G:\Zaawansowane Programowanie Obiektowe\2 ćwiczenia\02.1\02.1\obj\Debug\02.1.pdb

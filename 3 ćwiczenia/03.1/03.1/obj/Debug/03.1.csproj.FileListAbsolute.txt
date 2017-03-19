@@ -1,0 +1,2 @@
+G:\Zaawansowane Programowanie Obiektowe\3 ćwiczenia\03.1\03.1\bin\Debug\03.1.exe.config
+G:\Zaawansowane Programowanie Obiektowe\3 ćwiczenia\03.1\03.1\obj\Debug\03.1.csprojResolveAssemblyReference.cache

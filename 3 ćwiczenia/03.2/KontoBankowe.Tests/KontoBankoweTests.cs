@@ -17,11 +17,17 @@ namespace KontoBankowe.Tests
             var op2 = new KontoBankowe(4444, 9000);
             double result1 = op1.Checkcash();
             double result2 = op1.Incash(500);
-            double result3 = op1.Outcash(500);
+            double result3 = op1.Outcash(400);
             double result4 = op1.Transfercash(op2,300);
+            double result6 = op1.Checkcash();
 
-            Assert.AreEqual(4460, result1);
-            
+            Assert.AreEqual(4450, result1);
+            Assert.AreEqual(4950, result2);
+            Assert.AreEqual(4550, result3);
+            Assert.AreEqual(9300, result4);
+            Assert.AreEqual(4250, result6);
+
+
 
         }
         

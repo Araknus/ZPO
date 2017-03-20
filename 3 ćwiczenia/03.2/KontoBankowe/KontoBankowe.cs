@@ -27,7 +27,9 @@ namespace KontoBankowe
         }
         public double Transfercash(KontoBankowe nrdokonta, double wartosc)
         {
-            return 0;
+            Saldo -= wartosc;
+            nrdokonta.Saldo += wartosc;
+            return nrdokonta.Saldo;
         }
 
         public KontoBankowe(int numerkonta, double saldostart)
@@ -36,8 +38,7 @@ namespace KontoBankowe
             Saldo = saldostart;
         }
 
-        KontoBankowe pierwsze = new KontoBankowe(1111,1950);
-        KontoBankowe drugie = new KontoBankowe(2222,2235);
+        
 
     }
 }

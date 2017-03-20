@@ -4,3 +4,6 @@ G:\Zaawansowane Programowanie Obiektowe\2 ćwiczenia\02.1\02.1\bin\Debug\02.1.ex
 G:\Zaawansowane Programowanie Obiektowe\2 ćwiczenia\02.1\02.1\bin\Debug\02.1.pdb
 G:\Zaawansowane Programowanie Obiektowe\2 ćwiczenia\02.1\02.1\obj\Debug\02.1.exe
 G:\Zaawansowane Programowanie Obiektowe\2 ćwiczenia\02.1\02.1\obj\Debug\02.1.pdb
+C:\Users\Admin\Source\Repos\ZPO2\2 ćwiczenia\02.1\02.1\bin\Debug\02.1.exe.config
+C:\Users\Admin\Source\Repos\ZPO2\2 ćwiczenia\02.1\02.1\obj\Debug\02.1.exe
+C:\Users\Admin\Source\Repos\ZPO2\2 ćwiczenia\02.1\02.1\obj\Debug\02.1.pdb

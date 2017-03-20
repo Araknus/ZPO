@@ -8,24 +8,24 @@ namespace KontoBankowe
 {
     public class KontoBankowe
     {
-        int Numerkonta;
-        double Saldo;
+        public int Numerkonta { get; set; }
+        private double Saldo { get; set; }
 
-        public double Incash(KontoBankowe nrkonta, double wartosc)
+        public double Incash(double wartosc)
         {
             Saldo += wartosc;
             return Saldo;
         }
-        public double Outcash(KontoBankowe nrkonta, double wartosc)
+        public double Outcash(double wartosc)
         {
             Saldo -= wartosc;
             return Saldo;
         }
-        public double Checkcash(KontoBankowe nrkonta)
+        public double Checkcash()
         {
             return Saldo;
         }
-        public double Transfercash(KontoBankowe nrzkonta, KontoBankowe nrdokonta, double wartosc)
+        public double Transfercash(KontoBankowe nrdokonta, double wartosc)
         {
             return 0;
         }

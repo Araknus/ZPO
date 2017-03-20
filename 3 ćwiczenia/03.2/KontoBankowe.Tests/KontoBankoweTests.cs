@@ -15,10 +15,13 @@ namespace KontoBankowe.Tests
         {
             var op1 = new KontoBankowe(3333,4450);
             var op2 = new KontoBankowe(4444, 9000);
-            double result1 = op1.Checkcash(op1);
-            double result2 = op1.Incash(op1,500);
-            double result3 = op1.Outcash(op1,500);
-            double result4 = op1.Transfercash(op1,op2,300);
+            double result1 = op1.Checkcash();
+            double result2 = op1.Incash(500);
+            double result3 = op1.Outcash(500);
+            double result4 = op1.Transfercash(op2,300);
+
+            Assert.AreEqual(4460, result1);
+            
 
         }
         

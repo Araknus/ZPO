@@ -4,3 +4,6 @@ G:\Zaawansowane Programowanie Obiektowe\2 ćwiczenia\02.2\02.2\bin\Debug\02.2.pd
 G:\Zaawansowane Programowanie Obiektowe\2 ćwiczenia\02.2\02.2\obj\Debug\02.2.csprojResolveAssemblyReference.cache
 G:\Zaawansowane Programowanie Obiektowe\2 ćwiczenia\02.2\02.2\obj\Debug\02.2.exe
 G:\Zaawansowane Programowanie Obiektowe\2 ćwiczenia\02.2\02.2\obj\Debug\02.2.pdb
+C:\Users\Admin\Source\Repos\ZPO2\2 ćwiczenia\02.2\02.2\bin\Debug\02.2.exe.config
+C:\Users\Admin\Source\Repos\ZPO2\2 ćwiczenia\02.2\02.2\obj\Debug\02.2.exe
+C:\Users\Admin\Source\Repos\ZPO2\2 ćwiczenia\02.2\02.2\obj\Debug\02.2.pdb

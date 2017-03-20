@@ -3,10 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using NUnit.Framework;
 
 namespace KontoBankowe.Tests
 {
+    [TestFixture]
     public class KontoBankoweTests
     {
+        
+
     }
 }

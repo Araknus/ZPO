@@ -13,6 +13,7 @@ namespace Dziennik.Tests
         [Test]
         public void Dziennik()
         {
+            var pierwszy = new Uczen("Jan", "Kowalski");
 
 
 

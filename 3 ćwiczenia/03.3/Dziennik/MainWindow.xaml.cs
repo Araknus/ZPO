@@ -34,5 +34,15 @@ namespace Dziennik
         {
 
         }
+
+        public void button_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, RoutedEventArgs e)
+        {
+            cB_Przedmiot.Items.Add(textBox1);
+        }
     }
 }

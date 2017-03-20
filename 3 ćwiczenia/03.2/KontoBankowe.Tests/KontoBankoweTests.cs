@@ -13,11 +13,12 @@ namespace KontoBankowe.Tests
         [Test]
         public void BankAccount()
         {
-            var op = new KontoBankowe();
-            double result1 = op.Checkcash(1111);
-            double result2 = op.Incash(1111,500);
-            double result3 = op.Outcash(1111,500);
-            double result4 = op.Transfercash(1111,2222,300);
+            var op1 = new KontoBankowe(3333,4450);
+            var op2 = new KontoBankowe(4444, 9000);
+            double result1 = op1.Checkcash(op1);
+            double result2 = op1.Incash(op1,500);
+            double result3 = op1.Outcash(op1,500);
+            double result4 = op1.Transfercash(op1,op2,300);
 
         }
         

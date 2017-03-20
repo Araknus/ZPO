@@ -19,6 +19,7 @@ namespace Dzielenie.Tests
 
             Assert.AreEqual(1, wynik);
             Assert.AreEqual(4, calc.DivideNumbers(8, 2));
+            Assert.Throws<DivideByZeroException>(()=> calc.DivideNumbers(8, 0));
             
         }
     }

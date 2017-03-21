@@ -26,6 +26,8 @@ namespace KontoBankowe.Tests
             Assert.AreEqual(4550, result3);
             Assert.AreEqual(9300, result4);
             Assert.AreEqual(4250, result6);
+            Assert.Throws<ArgumentOutOfRangeException>(() => op1.Outcash(5000));
+            Assert.Throws<ArgumentOutOfRangeException>(() => op1.Transfercash(op2,6000));
 
 
 

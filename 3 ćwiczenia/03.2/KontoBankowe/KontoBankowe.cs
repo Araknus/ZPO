@@ -18,8 +18,16 @@ namespace KontoBankowe
         }
         public double Outcash(double wartosc)
         {
-            Saldo -= wartosc;
-            return Saldo;
+            if (Saldo - wartosc < 0)
+            {
+                throw new System.ArgumentOutOfRangeException();
+            }
+            else
+            {
+                Saldo -= wartosc;
+                return Saldo;
+            }
+            
         }
         public double Checkcash()
         {
@@ -27,9 +35,17 @@ namespace KontoBankowe
         }
         public double Transfercash(KontoBankowe nrdokonta, double wartosc)
         {
-            Saldo -= wartosc;
-            nrdokonta.Saldo += wartosc;
-            return nrdokonta.Saldo;
+            if (Saldo - wartosc < 0)
+            {
+                throw new System.ArgumentOutOfRangeException();
+            }
+            else
+            {
+                Saldo -= wartosc;
+                nrdokonta.Saldo += wartosc;
+                return nrdokonta.Saldo;
+            }
+            
         }
 
         public KontoBankowe(int numerkonta, double saldostart)

@@ -1,0 +1,10 @@
+C:\Users\Admin\Source\Repos\ZPO2\3 ćwiczenia\03.2\KontoBankowe\bin\Debug\KontoBankowe.dll
+C:\Users\Admin\Source\Repos\ZPO2\3 ćwiczenia\03.2\KontoBankowe\bin\Debug\KontoBankowe.pdb
+C:\Users\Admin\Source\Repos\ZPO2\3 ćwiczenia\03.2\KontoBankowe\obj\Debug\KontoBankowe.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Source\Repos\ZPO2\3 ćwiczenia\03.2\KontoBankowe\obj\Debug\KontoBankowe.dll
+C:\Users\Admin\Source\Repos\ZPO2\3 ćwiczenia\03.2\KontoBankowe\obj\Debug\KontoBankowe.pdb
+G:\Zaawansowane Programowanie Obiektowe\3 ćwiczenia\03.2\KontoBankowe\bin\Debug\KontoBankowe.dll
+G:\Zaawansowane Programowanie Obiektowe\3 ćwiczenia\03.2\KontoBankowe\bin\Debug\KontoBankowe.pdb
+G:\Zaawansowane Programowanie Obiektowe\3 ćwiczenia\03.2\KontoBankowe\obj\Debug\KontoBankowe.csprojResolveAssemblyReference.cache
+G:\Zaawansowane Programowanie Obiektowe\3 ćwiczenia\03.2\KontoBankowe\obj\Debug\KontoBankowe.dll
+G:\Zaawansowane Programowanie Obiektowe\3 ćwiczenia\03.2\KontoBankowe\obj\Debug\KontoBankowe.pdb

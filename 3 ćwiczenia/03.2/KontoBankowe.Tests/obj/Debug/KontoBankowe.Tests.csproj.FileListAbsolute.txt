@@ -1,0 +1,18 @@
+C:\Users\Admin\Source\Repos\ZPO2\3 ćwiczenia\03.2\KontoBankowe.Tests\bin\Debug\KontoBankowe.Tests.dll
+C:\Users\Admin\Source\Repos\ZPO2\3 ćwiczenia\03.2\KontoBankowe.Tests\bin\Debug\KontoBankowe.Tests.pdb
+C:\Users\Admin\Source\Repos\ZPO2\3 ćwiczenia\03.2\KontoBankowe.Tests\bin\Debug\KontoBankowe.dll
+C:\Users\Admin\Source\Repos\ZPO2\3 ćwiczenia\03.2\KontoBankowe.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Admin\Source\Repos\ZPO2\3 ćwiczenia\03.2\KontoBankowe.Tests\bin\Debug\KontoBankowe.pdb
+C:\Users\Admin\Source\Repos\ZPO2\3 ćwiczenia\03.2\KontoBankowe.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Admin\Source\Repos\ZPO2\3 ćwiczenia\03.2\KontoBankowe.Tests\obj\Debug\KontoBankowe.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Source\Repos\ZPO2\3 ćwiczenia\03.2\KontoBankowe.Tests\obj\Debug\KontoBankowe.Tests.dll
+C:\Users\Admin\Source\Repos\ZPO2\3 ćwiczenia\03.2\KontoBankowe.Tests\obj\Debug\KontoBankowe.Tests.pdb
+G:\Zaawansowane Programowanie Obiektowe\3 ćwiczenia\03.2\KontoBankowe.Tests\bin\Debug\KontoBankowe.Tests.dll
+G:\Zaawansowane Programowanie Obiektowe\3 ćwiczenia\03.2\KontoBankowe.Tests\bin\Debug\KontoBankowe.Tests.pdb
+G:\Zaawansowane Programowanie Obiektowe\3 ćwiczenia\03.2\KontoBankowe.Tests\bin\Debug\KontoBankowe.dll
+G:\Zaawansowane Programowanie Obiektowe\3 ćwiczenia\03.2\KontoBankowe.Tests\bin\Debug\nunit.framework.dll
+G:\Zaawansowane Programowanie Obiektowe\3 ćwiczenia\03.2\KontoBankowe.Tests\bin\Debug\KontoBankowe.pdb
+G:\Zaawansowane Programowanie Obiektowe\3 ćwiczenia\03.2\KontoBankowe.Tests\bin\Debug\nunit.framework.xml
+G:\Zaawansowane Programowanie Obiektowe\3 ćwiczenia\03.2\KontoBankowe.Tests\obj\Debug\KontoBankowe.Tests.csprojResolveAssemblyReference.cache
+G:\Zaawansowane Programowanie Obiektowe\3 ćwiczenia\03.2\KontoBankowe.Tests\obj\Debug\KontoBankowe.Tests.dll
+G:\Zaawansowane Programowanie Obiektowe\3 ćwiczenia\03.2\KontoBankowe.Tests\obj\Debug\KontoBankowe.Tests.pdb

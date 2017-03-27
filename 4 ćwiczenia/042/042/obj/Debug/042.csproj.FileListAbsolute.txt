@@ -1,0 +1,6 @@
+G:\Zaawansowane Programowanie Obiektowe\4 ćwiczenia\042\042\bin\Debug\042.exe.config
+G:\Zaawansowane Programowanie Obiektowe\4 ćwiczenia\042\042\obj\Debug\042.csprojResolveAssemblyReference.cache
+G:\Zaawansowane Programowanie Obiektowe\4 ćwiczenia\042\042\bin\Debug\042.exe
+G:\Zaawansowane Programowanie Obiektowe\4 ćwiczenia\042\042\bin\Debug\042.pdb
+G:\Zaawansowane Programowanie Obiektowe\4 ćwiczenia\042\042\obj\Debug\042.exe
+G:\Zaawansowane Programowanie Obiektowe\4 ćwiczenia\042\042\obj\Debug\042.pdb
